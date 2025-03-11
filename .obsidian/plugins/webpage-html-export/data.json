@@ -43,18 +43,18 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\PorterHatch\\Documents\\GitHub\\RMEDocs\\Docs",
+  "exportPath": "C:\\\\Users\\PorterHatch\\Documents\\GitHub\\RMEDocs\\Docs\\docs",
   "filesToExport": [
     [
-      "edit/Carcass.md",
-      "edit/Fulfillment.md",
-      "edit/Home Page.md",
-      "edit/index.md",
-      "edit/Inventory.md",
-      "edit/Production.md",
-      "edit/Receiving.md",
-      "edit/Reports.md",
-      "edit/Shipping.md"
+      "Carcass.md",
+      "Fulfillment.md",
+      "Home Page.md",
+      "index.md",
+      "Inventory.md",
+      "Production.md",
+      "Receiving.md",
+      "Reports.md",
+      "Shipping.md"
     ]
   ]
 }
