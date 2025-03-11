@@ -8,7 +8,7 @@ title: Welcome to BITS Documentation
 - [Inventory](./inventory.html)
 - [Shipping](./shipping.html)
 - [Fulfillment](./fulfillment.html)
-- [Reports](./report.html)
+- [Reports](./reports.html)
 
 # Getting Started
 

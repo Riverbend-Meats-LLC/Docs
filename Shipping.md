@@ -5,7 +5,7 @@ title: Shipping Pages
 [Return to Home](./index.html)
 ## Order Maintenance
 Search/Filter
-![[Pasted image 20250307133953.png]]
+![[./img/Pasted image 20250307133953.png]]
 Add New Order 
 
 Add Order Lines
