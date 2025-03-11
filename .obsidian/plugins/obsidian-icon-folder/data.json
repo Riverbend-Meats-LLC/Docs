@@ -23,7 +23,7 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
-    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1. Carcass/carcass-grading.md": "CiCompare",
   "1. Carcass/carcass-payout-grid.md": "CiPriceChange",
   "1. Carcass/carcasses.md": "CiTag",
   "1. Carcass/eid-upload.md": "CiUploadFile",
