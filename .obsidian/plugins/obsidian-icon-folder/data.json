@@ -55,7 +55,6 @@
   "2. Receiving": "CiLocalShipping",
   "3. Production": "CiStore",
   "6. Fulfillment": "CiOrders",
-  "0. Master Data": "CiFactCheck",
   "1. Carcass": "CiAgriculture",
   "4. Inventory": "CiDomain",
   "5. Shipping": "CiLocalShipping"

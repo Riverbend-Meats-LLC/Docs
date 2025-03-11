@@ -46,13 +46,26 @@
   "exportPath": "C:\\\\Users\\PorterHatch\\Documents\\GitHub\\RMEDocs\\Docs",
   "filesToExport": [
     [
-      "1. Carcass",
-      "2. Receiving",
-      "3. Production",
-      "4. Inventory",
-      "5. Shipping",
-      "6. Fulfillment",
-      "7. Reports",
+      "1. Carcass/carcass-grading.md",
+      "1. Carcass/carcass-payout-grid.md",
+      "1. Carcass/carcasses.md",
+      "1. Carcass/eid-upload.md",
+      "1. Carcass/imps-numbers.md",
+      "1. Carcass/kill-groups.md",
+      "1. Carcass/no-tag-corrections.md",
+      "2. Receiving/receiving-maintenance.md",
+      "3. Production/box-production.md",
+      "3. Production/lab-samples.md",
+      "4. Inventory/inventory-adjustment.md",
+      "4. Inventory/supplies-adjustment.md",
+      "5. Shipping/order-maintenance.md",
+      "5. Shipping/route-maintenance.md",
+      "6. Fulfillment/fulfillment-batches.md",
+      "6. Fulfillment/fulfillment-maintenance.md",
+      "6. Fulfillment/fulfillment-packing.md",
+      "6. Fulfillment/fulfillment-qa.md",
+      "6. Fulfillment/fulfillment-runner.md",
+      "7. Reports/reports.md",
       "index.md"
     ]
   ]
