@@ -1,16 +1,50 @@
 ---
-title: Welcome to BITS Documentation
+title: Welcome
 ---
 **Table of Contents**
-- [Carcass](./carcass.html)
-- [Receiving](./receiving.html)
-- [Production](./production.html)
-- [Inventory](./inventory.html)
-- [Shipping](./shipping.html)
-- [Fulfillment](./fulfillment.html)
-- [Reports](./reports.html)
-
+- Master Data
+	- Address Master
+	- Label Master
+	- Product Master
+	- Product Prices
+	- Warehouse Master
+	- Yield Standards
+- Carcass
+	- Carcass Grading
+	- Carcass Payout Grid
+	- Carcasses
+	- EID Upload
+	- IMPS Numbers
+	- Kill Groups
+	- No Tag Corrections
+- Receiving
+	- Receiving Maintenance
+- Production
+	- Box Production
+	- Lab Samples
+- Inventory
+	- Inventory Adjustment 
+	- Supplies Adjustment
+- Shipping 
+	- Order Maintenance
+	- Route Maintenance
+- Fulfillment
+	- Fulfillment Batches
+	- Fulfillment Maintenance
+	- Fulfillment Packing
+	- Fulfillment QA 
+	- Fulfillment Runner
+- Reports
+	- Reports
 # Getting Started
+Login
+
+Theme Selector
+![[Pasted image 20250307133847.png]]
+Light Mode and Dark Mode
+
+Navigation Bar
+![[Pasted image 20250307133719.png]]
 
 
 # Basic Functions

@@ -1,10 +1,22 @@
 exclude: 
-    - carcass.md
-    - fulfillment.md
-    - home-page.md
-    - index.md
-    - inventory.md
-    - production.md
-    - receiving.md
+    - carcasses.md
+    - carcass-grading.md
+    - carcass-payout-grid.md
+    - eid-upload.md
+    - imps-numbers.md
+    - kill-groups.md
+    - not-tag-corrections.md
+    - receiving-maintenance.md
+    - box-production.md
+    - lab-samples.md
+    - inventory-adjustment.md
+    - supplies-adjustment.md
+    - order-maintenance.md
+    - route-maintenance.md
+    - fulfillment-batches.md
+    - fulfillment-maintenance.md
+    - fulfillment-packing.md
+    - fulfillment-qa.md
+    - fulfillment-runner.md
     - reports.md
-    - shipping.md
+    - index.md

@@ -1,11 +1,9 @@
 ---
-title: Receiving Pages
+title: Order Maintenance
 ---
 
-[Return to Home](./index.html)
-## Receiving Maintenance
 Search/Filter
-
+![[Pasted image 20250307133953.png]]
 Add New Order 
 
 Add Order Lines
@@ -13,6 +11,8 @@ Add Order Lines
 View/Edit Order Header
 
 View/Edit Order Lines
+
+Auto/Manual Commit
 
 Bulk Edit 
 
@@ -25,5 +25,4 @@ History
 Show/Hide Deleted Lines
 
 Copy As New Order
-
-[Return to Home](./index.html)
+[Right Click Context Menu](./index.html#Right_Click_Context_Menus)

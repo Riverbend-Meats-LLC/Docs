@@ -19,7 +19,7 @@
   "makeNamesWebStyle": false,
   "onlyExportModified": false,
   "deleteOldFiles": false,
-  "addThemeToggle": false,
+  "addThemeToggle": true,
   "addOutline": false,
   "addFileNav": true,
   "addSearchBar": false,
@@ -39,22 +39,21 @@
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
   "showDefaultTreeIcons": true,
-  "emojiStyle": "Native",
+  "emojiStyle": "FluentUI",
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\PorterHatch\\Documents\\GitHub\\RMEDocs\\Docs",
   "filesToExport": [
     [
-      "carcass.md",
-      "fulfillment.md",
-      "home-page.md",
-      "index.md",
-      "inventory.md",
-      "production.md",
-      "receiving.md",
-      "reports.md",
-      "shipping.md"
+      "1. Carcass",
+      "2. Receiving",
+      "3. Production",
+      "4. Inventory",
+      "5. Shipping",
+      "6. Fulfillment",
+      "7. Reports",
+      "index.md"
     ]
   ]
 }
