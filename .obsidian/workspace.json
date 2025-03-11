@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "shipping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "shipping"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "6e051e162a578322",
   "lastOpenFiles": [
+    "index.md",
     "shipping.md",
     "reports.md",
     "receiving.md",
     "production.md",
     "home-page.md",
     "fulfillment.md",
-    "index.md",
     "carcass.md",
     "inventory.md",
     "lib/metadata.json",

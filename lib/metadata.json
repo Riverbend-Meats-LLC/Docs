@@ -1,6 +1,6 @@
 {
   "vaultName": "Docs",
-  "lastExport": 1741724185227,
+  "lastExport": 1741724342079,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -48,139 +48,139 @@
   ],
   "fileInfo": {
     "carcass.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 598,
       "exportedPath": "carcass.html",
       "dependencies": []
     },
     "fulfillment.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 215,
       "exportedPath": "fulfillment.html",
       "dependencies": []
     },
     "home-page.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 225,
       "exportedPath": "home-page.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 492,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "inventory.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 239,
       "exportedPath": "inventory.html",
       "dependencies": []
     },
     "production.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 245,
       "exportedPath": "production.html",
       "dependencies": []
     },
     "receiving.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 319,
       "exportedPath": "receiving.html",
       "dependencies": []
     },
     "reports.md": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 54,
       "exportedPath": "reports.html",
       "dependencies": []
     },
     "shipping.md": {
-      "modifiedTime": 1741724185227,
-      "sourceSize": 521,
+      "modifiedTime": 1741724342079,
+      "sourceSize": 587,
       "exportedPath": "shipping.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1741724185227,
+      "modifiedTime": 1741724342079,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
