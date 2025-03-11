@@ -1,5 +1,6 @@
 ---
 title: Carcass Payout Grid
+icon: CiPriceChange
 ---
 
 Add a Payout 

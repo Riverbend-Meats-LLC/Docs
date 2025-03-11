@@ -1,5 +1,6 @@
 ---
 title: Carcasses
+icon: CiTag
 ---
 
 Add a Carcass

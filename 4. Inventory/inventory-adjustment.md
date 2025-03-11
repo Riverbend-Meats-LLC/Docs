@@ -1,5 +1,6 @@
 ---
 title: Inventory Adjustment
+icon: CiMoveUp
 ---
 
 Search/Filter

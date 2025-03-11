@@ -1,5 +1,6 @@
 ---
 title: IMPS Numbers
+icon: CiAccountTree
 ---
 
 Search for Carcasses

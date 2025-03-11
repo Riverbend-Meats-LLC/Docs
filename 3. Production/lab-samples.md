@@ -1,5 +1,6 @@
 ---
 title: Lab Samples
+icon: CiVaccines
 ---
 
 Search/Filter

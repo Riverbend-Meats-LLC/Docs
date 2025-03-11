@@ -1,5 +1,6 @@
 ---
 title: Kill Groups
+icon: CiDemography
 ---
 Add a Kill Group 
 

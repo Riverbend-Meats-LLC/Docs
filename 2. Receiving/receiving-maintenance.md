@@ -1,5 +1,6 @@
 ---
 title: Receiving Maintenance
+icon: CiOrderApprove
 ---
 
 Search/Filter

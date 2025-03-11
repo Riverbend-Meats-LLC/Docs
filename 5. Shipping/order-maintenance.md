@@ -1,5 +1,6 @@
 ---
 title: Order Maintenance
+icon: CiTable
 ---
 
 Search/Filter

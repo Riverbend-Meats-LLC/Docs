@@ -1,5 +1,6 @@
 ---
 title: Route Maintenance
+icon: CiMap
 ---
 
 Search/Filter

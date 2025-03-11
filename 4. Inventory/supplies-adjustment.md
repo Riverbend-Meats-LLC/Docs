@@ -1,5 +1,6 @@
 ---
 title: Supplies Adjustment
+icon: CiTrolley
 ---
 
 Search/Filter

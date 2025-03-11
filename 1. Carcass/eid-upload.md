@@ -1,5 +1,6 @@
 ---
 title: EID Upload
+icon: CiUploadFile
 ---
 
 Excel template
