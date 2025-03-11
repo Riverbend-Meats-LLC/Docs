@@ -1,3 +1,7 @@
+---
+title: Inventory Pages
+---
+
 [Return to Home](./index.html)
 ## Inventory Adjustment
 Search/Filter

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carcass.md",
+                "file": "shipping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "carcass"
+              "title": "shipping"
             }
           }
         ]
@@ -171,15 +171,15 @@
   },
   "active": "6e051e162a578322",
   "lastOpenFiles": [
+    "index.md",
     "shipping.md",
     "reports.md",
     "receiving.md",
     "production.md",
-    "inventory.md",
     "home-page.md",
-    "fulfillment.md",
     "carcass.md",
-    "index.md",
+    "inventory.md",
+    "fulfillment.md",
     "lib/metadata.json",
     "lib/media/6155340132a851f6089e.svg",
     "lib/media",

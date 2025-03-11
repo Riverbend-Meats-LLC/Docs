@@ -1,3 +1,7 @@
+---
+title: Carcass Pages
+---
+
 [Return to Home](./index.html)
 ## Kill Groups
 Add a Kill Group 

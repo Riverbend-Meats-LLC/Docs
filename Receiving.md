@@ -1,3 +1,7 @@
+---
+title: Receiving Pages
+---
+
 [Return to Home](./index.html)
 ## Receiving Maintenance
 Search/Filter

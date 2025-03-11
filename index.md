@@ -1,5 +1,6 @@
-# BITS Documentation
-
+---
+title: Welcome to BITS Documentation
+---
 **Table of Contents**
 - [Carcass](./carcass.html)
 - [Receiving](./receiving.html)
