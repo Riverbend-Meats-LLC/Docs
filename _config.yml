@@ -1,0 +1,10 @@
+exclude: 
+    - carcass.md
+    - fulfillment.md
+    - home-page.md
+    - index.md
+    - inventory.md
+    - production.md
+    - receiving.md
+    - reports.md
+    - shipping.md
