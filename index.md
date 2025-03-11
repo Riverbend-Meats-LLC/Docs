@@ -14,12 +14,14 @@ title: Welcome to BITS Documentation
 
 
 # Basic Functions
-SHIFT Select
 
-CTRL Select 
+### SHIFT Select
 
-CTRL + A Select
+### CTRL Select 
 
-Right Click Context Menus
+### CTRL + A Select
 
-Column Filters
+### Right Click Context Menus
+This is the place to learn about right click context menus
+
+### Column Filters
