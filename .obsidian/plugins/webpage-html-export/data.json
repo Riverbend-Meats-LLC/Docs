@@ -18,7 +18,7 @@
   "minifyHTML": true,
   "makeNamesWebStyle": false,
   "onlyExportModified": false,
-  "deleteOldFiles": false,
+  "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": false,
   "addFileNav": true,
