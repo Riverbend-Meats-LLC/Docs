@@ -1,1 +1,1 @@
-[Return to Home](Docs/docs/index.html)
+[Return to Home](./index.html)

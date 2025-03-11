@@ -1,13 +1,13 @@
 # BITS Documentation
 
 **Table of Contents**
-- [Carcass](Docs/docs/Carcass.html)
-- [Receiving](Docs/docs/Receiving.html)
-- [Production](Docs/docs/Production.html)
-- [Inventory](Docs/docs/Inventory.html)
-- [Shipping](Docs/docs/Shipping.html)
-- [Fulfillment](Docs/docs/Fulfillment.html)
-- [Reports](Docs/docs/Report.html)
+- [Carcass](./Carcass.html)
+- [Receiving](./Receiving.html)
+- [Production](./Production.html)
+- [Inventory](./Inventory.html)
+- [Shipping](./Shipping.html)
+- [Fulfillment](./Fulfillment.html)
+- [Reports](./Report.html)
 
 # Getting Started
 
