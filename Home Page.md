@@ -1,4 +1,4 @@
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)
 Login
 
 Theme Selector
@@ -8,4 +8,4 @@ Light Mode and Dark Mode
 Navigation Bar
 ![[Pasted image 20250307133719.png]]
 
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)

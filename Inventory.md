@@ -1,4 +1,4 @@
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)
 ## Inventory Adjustment
 Search/Filter
 
@@ -15,4 +15,4 @@ Move
 
 Count
 
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)

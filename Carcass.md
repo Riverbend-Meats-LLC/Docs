@@ -1,4 +1,4 @@
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)
 ## Kill Groups
 Add a Kill Group 
 
@@ -48,4 +48,4 @@ Select Available Carcass
 
 Merge Carcass
 
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)

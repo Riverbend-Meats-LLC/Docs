@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carcass.md",
+                "file": "Shipping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carcass"
+              "title": "Shipping"
             }
           }
         ]
@@ -171,6 +171,14 @@
   },
   "active": "6e051e162a578322",
   "lastOpenFiles": [
+    "Reports.md",
+    "Receiving.md",
+    "Production.md",
+    "Inventory.md",
+    "Home Page.md",
+    "Fulfillment.md",
+    "Carcass.md",
+    "index.md",
     "docs/lib/metadata.json",
     "docs/lib/media/6155340132a851f6089e.svg",
     "docs/lib/media",
@@ -183,19 +191,9 @@
     "Shipping.md",
     "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "Reports.md",
-    "Receiving.md",
-    "Production.md",
-    "Inventory.md",
-    "Home Page.md",
-    "Fulfillment.md",
-    "Carcass.md",
     "edit/Dummy File (do not export).md",
     "lib/media/6155340132a851f6089e.svg",
     "Untitled.md",
-    "index.md",
-    "index.md",
     "Docs/Carcass.html.md",
     "edit-files/Carcass.md",
     "DocumentationPhotos/pasted-image-20250307133953.png",

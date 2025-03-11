@@ -1,4 +1,4 @@
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)
 ## Receiving Maintenance
 Search/Filter
 
@@ -22,4 +22,4 @@ Show/Hide Deleted Lines
 
 Copy As New Order
 
-[Return to Home](Docs/index.html)
+[Return to Home](Docs/docs/index.html)
