@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CiCompare",
+      "CiPackage2",
       "CiLocalShipping",
       "CiDomain",
-      "CiAgriculture",
-      "CiFactCheck",
-      "CiOrders"
+      "CiAgriculture"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,7 +41,7 @@
   "1. Carcass/kill-groups.md": "CiDemography",
   "1. Carcass/no-tag-corrections.md": "CiPublishedWithChanges",
   "2. Receiving/receiving-maintenance.md": "CiOrderApprove",
-  "3. Production/box-production.md": "LiPackage2",
+  "3. Production/box-production.md": "CiPackage2",
   "3. Production/lab-samples.md": "CiVaccines",
   "4. Inventory/inventory-adjustment.md": "CiMoveUp",
   "4. Inventory/supplies-adjustment.md": "CiTrolley",
@@ -57,5 +57,6 @@
   "6. Fulfillment": "CiOrders",
   "1. Carcass": "CiAgriculture",
   "4. Inventory": "CiDomain",
-  "5. Shipping": "CiLocalShipping"
+  "5. Shipping": "CiLocalShipping",
+  "1. Carcass/carcass-grading.md": "CiCompare"
 }

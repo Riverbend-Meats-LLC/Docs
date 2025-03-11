@@ -1,6 +1,6 @@
 ---
 title: Box Production
-icon: LiPackage2
+icon: CiPackage2
 ---
 
 Search/Filter
