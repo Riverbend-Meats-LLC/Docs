@@ -1,6 +1,6 @@
 {
   "settingsVersion": "1.8.01",
-  "makeOfflineCompatible": false,
+  "makeOfflineCompatible": true,
   "inlineAssets": true,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
@@ -19,9 +19,9 @@
   "makeNamesWebStyle": false,
   "onlyExportModified": false,
   "deleteOldFiles": false,
-  "addThemeToggle": true,
+  "addThemeToggle": false,
   "addOutline": false,
-  "addFileNav": true,
+  "addFileNav": false,
   "addSearchBar": false,
   "addGraphView": false,
   "addTitle": true,
@@ -45,6 +45,16 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\PorterHatch\\Documents\\GitHub\\RMEDocs\\Docs",
   "filesToExport": [
-    []
+    [
+      "edit/Carcass.md",
+      "edit/Fulfillment.md",
+      "edit/Home Page.md",
+      "edit/index.md",
+      "edit/Inventory.md",
+      "edit/Production.md",
+      "edit/Receiving.md",
+      "edit/Reports.md",
+      "edit/Shipping.md"
+    ]
   ]
 }
