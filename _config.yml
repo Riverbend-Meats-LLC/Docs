@@ -20,3 +20,9 @@ exclude:
     - fulfillment-runner.md
     - reports.md
     - index.md
+    - address-master.md
+    - label-master.md
+    - product-master.md
+    - product-prices.md
+    - warehouse-master.md
+    - yield-standards.md

@@ -46,6 +46,12 @@
   "exportPath": "C:\\\\Users\\PorterHatch\\Documents\\GitHub\\RMEDocs\\Docs",
   "filesToExport": [
     [
+      "0. Master Data/address-master.md",
+      "0. Master Data/label-master.md",
+      "0. Master Data/product-master.md",
+      "0. Master Data/product-prices.md",
+      "0. Master Data/warehouse-master.md",
+      "0. Master Data/yield-standards.md",
       "1. Carcass/carcass-grading.md",
       "1. Carcass/carcass-payout-grid.md",
       "1. Carcass/carcasses.md",
