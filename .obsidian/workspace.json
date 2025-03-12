@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Production/box-production.md",
+                "file": "0. Master Data/yield-standards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "box-production"
+              "title": "yield-standards"
             }
           }
         ]
@@ -169,12 +169,65 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e051e162a578322",
+  "floating": {
+    "id": "a206a6d700eb1b1b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8a12756aa22eafc9",
+        "type": "window",
+        "children": [
+          {
+            "id": "7492d2512a343254",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a5cdc6d18e265d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Receiving/receiving-maintenance.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "receiving-maintenance"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 532,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0a5cdc6d18e265d8",
   "lastOpenFiles": [
+    "0. Master Data/address-master.md",
+    "0. Master Data/yield-standards.md",
+    "0. Master Data/product-master.md",
+    "0. Master Data/warehouse-master.md",
+    "0. Master Data/product-prices.md",
+    "0. Master Data/label-master.md",
+    "1. Carcass/no-tag-corrections.md",
+    "0. Master Data",
+    "1. Carcass/kill-groups.md",
+    "1. Carcass/imps-numbers.md",
+    "1. Carcass/eid-upload.md",
+    "1. Carcass/carcasses.md",
+    "1. Carcass/carcass-payout-grid.md",
+    "1. Carcass/carcass-grading.md",
+    "3. Production/box-production.md",
     "index.md",
     "7. Reports/reports.md",
     "5. Shipping/order-maintenance.md",
-    "3. Production/box-production.md",
     "7. Reports/reports.html",
     "6. Fulfillment/fulfillment-runner.html",
     "6. Fulfillment/fulfillment-qa.html",
@@ -184,24 +237,15 @@
     "5. Shipping/route-maintenance.html",
     "5. Shipping/order-maintenance.html",
     "4. Inventory/supplies-adjustment.html",
-    "4. Inventory/inventory-adjustment.html",
     "6. Fulfillment/fulfillment-runner.md",
     "5. Shipping/route-maintenance.md",
     "4. Inventory/supplies-adjustment.md",
     "4. Inventory/inventory-adjustment.md",
     "3. Production/lab-samples.md",
     "2. Receiving/receiving-maintenance.md",
-    "1. Carcass/no-tag-corrections.md",
-    "1. Carcass/kill-groups.md",
-    "1. Carcass/imps-numbers.md",
-    "1. Carcass/eid-upload.md",
-    "1. Carcass/carcass-payout-grid.md",
-    "1. Carcass/carcasses.md",
     "6. Fulfillment/fulfillment-qa.md",
     "6. Fulfillment/fulfillment-packing.md",
     "6. Fulfillment/fulfillment-maintenance.md",
-    "6. Fulfillment/fulfillment-batches.md",
-    "1. Carcass/carcass-grading.md",
     "custom-icons/account_tree.png",
     "custom-icons/assignment_ind.png",
     "custom-icons/assignment_turned_in.png",
@@ -211,10 +255,6 @@
     "custom-icons/demography.png",
     "custom-icons/inventory.png",
     "custom-icons/map.png",
-    "custom-icons/move_up.png",
-    "shipping.md",
-    "inventory.md",
-    "home-page.md",
-    "fulfillment.md"
+    "custom-icons/move_up.png"
   ]
 }

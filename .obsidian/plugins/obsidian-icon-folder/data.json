@@ -7,10 +7,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "CiCompare",
-      "CiPackage2",
-      "CiLocalShipping",
-      "CiDomain",
-      "CiAgriculture"
+      "CiMultilineChart",
+      "CiWarehouse",
+      "CiPriceChange",
+      "CiInventory"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,12 @@
   "1. Carcass": "CiAgriculture",
   "4. Inventory": "CiDomain",
   "5. Shipping": "CiLocalShipping",
-  "1. Carcass/carcass-grading.md": "CiCompare"
+  "1. Carcass/carcass-grading.md": "CiCompare",
+  "0. Master Data": "CiFactCheck",
+  "0. Master Data/address-master.md": "CiContactPhone",
+  "0. Master Data/label-master.md": "CiPictureInPicture",
+  "0. Master Data/product-master.md": "CiInventory",
+  "0. Master Data/product-prices.md": "CiPriceChange",
+  "0. Master Data/warehouse-master.md": "CiWarehouse",
+  "0. Master Data/yield-standards.md": "CiMultilineChart"
 }
