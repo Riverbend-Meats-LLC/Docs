@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#b3b3b3",
     "recentlyUsedIcons": [
+      "CiHome",
       "CiInfo",
       "CiLabProfile",
       "CiFolderOpen",
-      "CiCompare",
-      "CiMultilineChart"
+      "CiCompare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,6 @@
   "7. Reports/reports.md": "CiLabProfile",
   "8. Procedures": "CiFolderOpen",
   "8. Procedures/procedure-1.md": "CiInfo",
-  "8. Procedures/procedure-2.md": "CiInfo"
+  "8. Procedures/procedure-2.md": "CiInfo",
+  "index.md": "CiHome"
 }

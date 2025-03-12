@@ -1,5 +1,6 @@
 ---
 title: Welcome
+icon: CiHome
 ---
 # Getting Started
 Login
