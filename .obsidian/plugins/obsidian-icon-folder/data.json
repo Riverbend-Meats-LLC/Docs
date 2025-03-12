@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#b3b3b3",
     "recentlyUsedIcons": [
+      "CiInfo",
+      "CiLabProfile",
+      "CiFolderOpen",
       "CiCompare",
-      "CiMultilineChart",
-      "CiWarehouse",
-      "CiPriceChange",
-      "CiInventory"
+      "CiMultilineChart"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,10 @@
   "0. Master Data/product-master.md": "CiInventory",
   "0. Master Data/product-prices.md": "CiPriceChange",
   "0. Master Data/warehouse-master.md": "CiWarehouse",
-  "0. Master Data/yield-standards.md": "CiMultilineChart"
+  "0. Master Data/yield-standards.md": "CiMultilineChart",
+  "7. Reports": "CiFolderOpen",
+  "7. Reports/reports.md": "CiLabProfile",
+  "8. Procedures": "CiFolderOpen",
+  "8. Procedures/procedure-1.md": "CiInfo",
+  "8. Procedures/procedure-2.md": "CiInfo"
 }
