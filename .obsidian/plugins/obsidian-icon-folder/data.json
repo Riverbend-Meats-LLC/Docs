@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#b3b3b3",
     "recentlyUsedIcons": [
+      "CiPackage2",
       "CiHome",
       "CiInfo",
       "CiLabProfile",
-      "CiFolderOpen",
-      "CiCompare"
+      "CiFolderOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
