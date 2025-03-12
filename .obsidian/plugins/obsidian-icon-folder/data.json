@@ -4,7 +4,7 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
+    "iconColor": "#b3b3b3",
     "recentlyUsedIcons": [
       "CiCompare",
       "CiMultilineChart",

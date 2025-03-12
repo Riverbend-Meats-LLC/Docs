@@ -169,50 +169,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "a206a6d700eb1b1b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d55374938751db17",
-        "type": "window",
-        "children": [
-          {
-            "id": "2931424eba01d85b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3472e7088e5ed832",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3. Production/box-production.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "box-production"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 532,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3472e7088e5ed832",
+  "active": "6e051e162a578322",
   "lastOpenFiles": [
+    "index.md",
+    "7. Reports/reports.md",
+    "5. Shipping/order-maintenance.md",
+    "3. Production/box-production.md",
+    "0. Master Data/yield-standards.md",
+    "8. Procedures",
     "1. Carcass/carcasses.md",
     "0. Master Data/address-master.md",
-    "0. Master Data/yield-standards.md",
     "2. Receiving/receiving-maintenance.md",
     "0. Master Data/product-master.md",
     "0. Master Data/warehouse-master.md",
@@ -225,10 +191,6 @@
     "1. Carcass/eid-upload.md",
     "1. Carcass/carcass-payout-grid.md",
     "1. Carcass/carcass-grading.md",
-    "3. Production/box-production.md",
-    "index.md",
-    "7. Reports/reports.md",
-    "5. Shipping/order-maintenance.md",
     "7. Reports/reports.html",
     "6. Fulfillment/fulfillment-runner.html",
     "6. Fulfillment/fulfillment-qa.html",
@@ -237,7 +199,6 @@
     "6. Fulfillment/fulfillment-batches.html",
     "5. Shipping/route-maintenance.html",
     "5. Shipping/order-maintenance.html",
-    "4. Inventory/supplies-adjustment.html",
     "6. Fulfillment/fulfillment-runner.md",
     "5. Shipping/route-maintenance.md",
     "4. Inventory/supplies-adjustment.md",
@@ -245,7 +206,6 @@
     "3. Production/lab-samples.md",
     "6. Fulfillment/fulfillment-qa.md",
     "6. Fulfillment/fulfillment-packing.md",
-    "6. Fulfillment/fulfillment-maintenance.md",
     "custom-icons/account_tree.png",
     "custom-icons/assignment_ind.png",
     "custom-icons/assignment_turned_in.png",
