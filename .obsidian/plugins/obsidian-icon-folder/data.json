@@ -41,7 +41,6 @@
   "1. Carcass/kill-groups.md": "CiDemography",
   "1. Carcass/no-tag-corrections.md": "CiPublishedWithChanges",
   "2. Receiving/receiving-maintenance.md": "CiOrderApprove",
-  "3. Production/box-production.md": "CiPackage2",
   "3. Production/lab-samples.md": "CiVaccines",
   "4. Inventory/inventory-adjustment.md": "CiMoveUp",
   "4. Inventory/supplies-adjustment.md": "CiTrolley",
@@ -71,5 +70,6 @@
   "8. Procedures": "CiFolderOpen",
   "8. Procedures/procedure-1.md": "CiInfo",
   "8. Procedures/procedure-2.md": "CiInfo",
-  "index.md": "CiHome"
+  "index.md": "CiHome",
+  "3. Production/box-production.md": "CiPackage2"
 }
