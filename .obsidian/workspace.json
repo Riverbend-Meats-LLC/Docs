@@ -174,6 +174,9 @@
     "index.md",
     "5. Shipping/order-maintenance.md",
     "3. Production/box-production.md",
+    "img/Pasted image 20250313102033.png",
+    "8. Procedures/procedure-2.md",
+    "lib/media/6155340132a851f6089e.svg",
     "1. Carcass/carcasses.md",
     "0. Master Data/address-master.md",
     "1. Carcass/carcass-payout-grid.md",
@@ -181,7 +184,6 @@
     "8. Procedures/procedure-1.md",
     "8. Procedures/procedure-2.html",
     "8. Procedures/procedure-1.html",
-    "8. Procedures/procedure-2.md",
     "0. Master Data/yield-standards.md",
     "7. Reports/reports.md",
     "8. Procedures",
@@ -213,8 +215,6 @@
     "custom-icons/cards.png",
     "custom-icons/compare.png",
     "custom-icons/contact_phone.png",
-    "custom-icons/demography.png",
-    "custom-icons/inventory.png",
-    "custom-icons/map.png"
+    "custom-icons/demography.png"
   ]
 }
