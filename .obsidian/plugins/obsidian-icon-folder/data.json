@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#b3b3b3",
     "recentlyUsedIcons": [
+      "CiBoxProduction",
       "CiPackage2",
       "CiHome",
       "CiInfo",
-      "CiLabProfile",
-      "CiFolderOpen"
+      "CiLabProfile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,5 @@
   "8. Procedures/procedure-1.md": "CiInfo",
   "8. Procedures/procedure-2.md": "CiInfo",
   "index.md": "CiHome",
-  "3. Production/box-production.md": "CiPackage2"
+  "3. Production/box-production.md": "CiBoxProduction"
 }

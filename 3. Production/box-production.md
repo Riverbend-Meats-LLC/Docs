@@ -1,6 +1,6 @@
 ---
 title: Box Production
-icon: CiPackage2
+icon: CiBoxProduction
 ---
 
 Search/Filter
