@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Processes/shipping-order-creation.md",
+                "file": "0. Master Data/address-master.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shipping-order-creation"
+              "title": "address-master"
             }
           }
         ]
@@ -169,52 +169,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "eda063f7766fbc65",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c729f40a46154df3",
-        "type": "window",
-        "children": [
-          {
-            "id": "fb597ce7a842ac1c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a402c25199e4b6cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 532,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a402c25199e4b6cb",
+  "active": "6e051e162a578322",
   "lastOpenFiles": [
+    "index.md",
+    "8. Hand Scanner/inventory-status.md",
     "5. Shipping/order-maintenance.md",
     "3. Production/box-production.md",
-    "1. Carcass/carcass-payout-grid.md",
+    "1. Carcass/no-tag-corrections.md",
     "0. Master Data/address-master.md",
+    "0. Master Data/yield-standards.md",
+    "0. Master Data/warehouse-master.md",
+    "0. Master Data/product-prices.md",
+    "0. Master Data/product-master.md",
+    "0. Master Data/label-master.md",
     "9. Processes/shipping-order-creation.md",
+    "1. Carcass/carcass-payout-grid.md",
     "9. Processes/release-inventory.md",
     "9. Processes/receiving-order-creation.md",
     "8. Hand Scanner/ups-reprint.md",
@@ -228,14 +197,6 @@
     "8. Hand Scanner/move-supplies.md",
     "8. Hand Scanner/move-inventory.md",
     "8. Hand Scanner/map-gtin.md",
-    "8. Hand Scanner/login.md",
-    "8. Hand Scanner/load-trailer.md",
-    "8. Hand Scanner/lab-sample.md",
-    "8. Hand Scanner/inventory-status.md",
-    "8. Hand Scanner/count-supplies.md",
-    "8. Hand Scanner/commit-inventory.md",
-    "8. Hand Scanner/carcass-grading-handheld.md",
-    "8. Hand Scanner/receive-supplies-handheld.md",
     "8. Hand Scanner",
     "img/Pasted image 20250313102033.png",
     "lib/media/6155340132a851f6089e.svg",
